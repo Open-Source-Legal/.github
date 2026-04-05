@@ -38,7 +38,9 @@ DISTILLED INSIGHTS & ANSWERS
 
 ### The Conviction
 
-The best AI systems need carefully curated data. Human annotation remains the ground truth. AI builds on top of that work — it doesn't replace it. This is the DRY principle applied to institutional knowledge: annotate once, build on it forever.
+Software is a necessary but not sufficient condition for innovation in the governance layer of our societies. The real value lives in human expertise, judgment, and preference — the people who understand what a clause means, why a regulation matters, and how a policy should evolve. No amount of tooling replaces that.
+
+The open source legal stack exists to free you from the software problem so you can focus on what actually matters. Stop rebuilding document parsers. Stop licensing comparison engines. Stop fighting your infrastructure. The plumbing should be solved, shared, and invisible — so that every hour of human attention goes toward the work that only humans can do.
 
 ---
 
